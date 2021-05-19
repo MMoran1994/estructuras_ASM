@@ -1,6 +1,6 @@
 # Trabajo Práctico: Estructuras de datos en ASM
 ## Objetivo
-Familiarizarse con el uso de lenguaje ensamblador mediante la implementación de estructuras de datos, además de pedidos, manejo y liberación de memoria dinámica.
+Familiarizarse con el uso de lenguaje ensamblador (instrucciones, registros) mediante la implementación de estructuras de datos, además de pedidos, manejo y liberación de memoria dinámica. También el llamado de funciones desde ASM a C y viceversa (convención C:https://en.wikipedia.org/wiki/X86_calling_conventions).
 
 ## Contenido
 En la carpeta *codigoEnC* se encuentran los códigos de varias funciones del tp escritas en lenguaje C.
