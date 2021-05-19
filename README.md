@@ -1,4 +1,4 @@
-# Trabajo Práctico 1 de Organización del Computador II
+# Trabajo Práctico: Estructuras de datos en ASM
 ## Objetivo
 Familiarizarse con el uso de lenguaje ensamblador mediante la implementación de estructuras de datos, además de pedidos, manejo y liberación de memoria dinámica.
 
